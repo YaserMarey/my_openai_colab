@@ -1,0 +1,329 @@
+Id,Title,Employer,Country,Remote/Onsite/Hybrid,About,Responsibilities,Requirements,What job offers
+1,Senior Data Scientist ML,Binance.US,"Dubai, Dubai, United Arab Emirates",Remote,"Launched in 2019, BAM Management US Holdings Inc. d/b/a Binance.US (""Binance.US"") is the fastest growing and most integrated digital asset marketplace in the United States, powered by matching engine and wallet technologies license from the world's largest cryptocurrency exchange - Binance. Our mission is to provide liquidity, transparency, and efficiency to financial markets by creating products that leverage crypto to unlock the power of everything. We build bridges between traditional finance and digital markets that enable growth for all—empowering the future of finance. Binance.US is operated by BAM Trading Services.","Identify potential business opportunities within your area and scope/design approaches to capture those opportunities
+Facilitate data driven decision making across the company
+Automate data and reporting related tasks that facilitate smooth business operations
+Proactively work with stakeholders to define analytical approach and construct use cases
+Derive recommendations from value driven analysis resulting in significant impact on the business performance
+Retrieve data from various internal and external sources to conduct regular deep dive analysis and influence business decisions
+Build machine learning prototypes to solve challenging business problems where needed","3+ years of experience in Data Science/Analytics
+Previous experience in a fast growing tech company
+Fluency with SQL and high level of expertise with R/Python
+Experience managing multiple competing priorities and projects in a fast-paced environment
+Solid understanding of Statistics and Machine Learning
+Experience in Machine Learning is a plus
+Strong communication & data presentation skills
+Strong work ethic and initiative
+Proactivity and autonomy",
+2,AI Engineer,LiquidX Studio ,United Arab Emirates,Remote,"LiquidX Studio is a gaming development studio with the goal to produce an open-world AAA game called Pixelmon.
+
+We are based in Singapore and Malaysia with many of our team collaborating remotely from countries like New Zealand, Spain, Indonesia, and Brazil. With large backing from our recently raised funding round, we aim to create an entirely unique experience with immersive gameplay and extensive lore that will wow all gamers.","Building challenging and fun AI that our players enjoy playing against and with.
+Creating and managing the AI development process and overall infrastructure of a product;
+Work closely with the design team to build AIs that fulfil the game's needs.
+Assisting art team and programmers on AI requirements.
+Work with QA team to identify bugs and effect changes based on feedback
+Strong intuition for how artificial intelligence works","Thoughtful Problem Solving: For you, problem-solving starts with a clear and accurate understanding of the context. You can decompose tricky problems and work towards a clean solution by yourself or with a team. You are also comfortable asking for help when you get stuck.
+Education. Bachelor’s degree in computer science, data science, information technology, statistics or related field
+Sound understanding of statistics, probability and linear algebra. Bonus if you’re familiar with elements such as pathfinding, group movement and camera control.
+Technical Knowledge. Sound understanding of programming languages; C++, C#, Unreal
+Shipped Games. At least 2 games doing network-oriented gameplay engineer","Great work environment
+Attractive salary & benefits
+Opportunity to make a positive impact"
+3,Data Analyst / Data Scientist ,nybl ," Dubai, Dubai, United Arab Emirates ",Remote,"nybl is looking for our next generation of data scientists. We pride ourselves on growing our team and are always looking for the brightest talent to join us. Attitude is the most important trait we are looking for above all else.
+
+You will be working on transforming data into intelligence by developing innovative Artificial Intelligence (AI) solutions and integrating them with cutting-edge Internet of Things (IoT) technologies. Candidates must prove that they have the will, determination and ambition to be part of a team that's going to be the next Camel of the Middle East.","work closely with nybl to identify issues and use data to propose solutions for effective decision making
+build algorithms and design experiments to merge, manage, interrogate and extract data to supply tailored reports to colleagues, customers or the wider organisation
+use machine learning tools and statistical techniques to produce solutions to problems
+test data mining models to select the most appropriate ones for use on a project
+maintain clear and coherent communication, both verbal and written, to understand data needs and report results
+create clear reports that tell compelling stories about how customers or clients work with the business
+assess the effectiveness of data sources and data-gathering techniques and improve data collection methods
+horizon scan to stay up to date with the latest technology, techniques and methods
+conduct research from which you'll develop prototypes and proof of concepts
+stay curious and enthusiastic about using algorithms to solve problems and enthuse others to see the benefit of your work.","Experience and knowledge in statistical and data mining techniques using (e.g., python, R, SQL)
+Experience and knowledge in applying advance Machine Learning techniques (e.g., Neural networks, supervised and unsupervised ML, computer vision and image processing, text analysis)
+Experience and knowledge in big data analysis and management and distributed computing tools (e.g., Hadoop, Hive, Spark)
+Experience and knowledge in one or more programming languages (C, C#, Java)
+Experience and knowledge in web development frameworks (javascript, React, node.js).
+Experience analyzing data from 3rd party providers: (e.g., Google Analytics, Site Catalyst, Facebook Insights)
+Experience visualizing/presenting data for stakeholders using: Periscope, Business Objects, D3, ggplot, etc.
+Experience working with and creating data architectures.
+Knowledge of a variety of machine learning techniques (clustering, decision tree learning, artificial neural networks, etc.) and their real-world advantages/drawbacks.
+Knowledge of advanced statistical techniques and concepts (regression, properties of distributions, statistical tests and proper usage, etc.) and experience with applications.
+Excellent written and verbal communication skills for coordinating across teams.
+A drive to learn and master new technologies and techniques.
+Willingness to learn new technology.
+Able to work independently on researching solutions and applying findings.",
+4,Research Scientist,NEOM ,"Tabuk, Saudi Arabia ",Onsite,"The NEOM project is being built from the ground up as a living laboratory incorporating sustainable cities, sustainable industries, communities, and high quality of living throughout, with technology-based services in health, education, transport, sport, entertainment, and other fields. Tourism will be a major economic driver and the number one job creator for NEOM and will be a key sector in developing the image and reputation of this new world destination.
+
+The NEOM higher education sector encompasses 3 Pillars: NEOM U, ERI Foundation and the Talent Academy and will act as the primary drivers of Higher Education and research in the region, working in partnership with the key employment sectors.
+
+The ERI Foundation funds a number of Applied Research Institutes (ARIs) and is seeking for 2 Research scientists in the fields of population genetics, acoustics, marine robotics or artificial intelligence applications to marine science. Research scientists are responsible for conducting scientific research and investigations in one of the main research lines of the institute. This may include designing and conducting experiments, analyzing and interpreting data, and writing reports and articles based on the research findings. In addition to strong scientific skills, the candidate should have excellent problem-solving and communication skills, as they may be required to work as part of a team and to present their findings to a variety of audiences.","Field and experimental work.
+Data analysis
+Instrumentation, models or software design.
+Reports and articles writing",,
+5,"
+Data Scientist [NLP Expert; Artificial Intelligence, Data & Analytics]",Armaco Chemical Processes Systems Pvt Ltd ,"Jiddah, Makkah, Saudi Arabia",Onsite,"ramco occupies a unique position in the global energy industry. We are the world's largest producer of hydrocarbons (oil and gas), with the lowest upstream carbon intensity of any major producer.
+
+With our significant investment in technology and infrastructure, we strive to maximize the value of the energy we produce for the world along with a commitment to enhance Aramcos value to society.
+
+Headquartered in the Kingdom of Saudi Arabia, and with offices around the world, we combine market discipline with a generations spanning view of the future, born of our nine decades experience as responsible stewards of the Kingdoms vast hydrocarbon resources. This responsibility has driven us to deliver significant societal and economic benefits to not just the Kingdom, but also to a vast number of communities, economies, and countries that rely on the vital and reliable energy that we supply.
+
+We are one of the most profitable companies in the world, as well as amongst the top five global companies by market capitalization.","Digital Transformation (DT) is responsible for providing AI-powered solutions to various business functions within Aramco. The solutions leverage the latest technological advancements of Artificial Intelligence (AI) and analytics to create business values across the value chain. The DT AI&A organization will be a center of excellence in Saudi Aramco for Artificial Intelligence technologies and data science.
+
+The data scientist primary role is to work closely with business functions, stakeholders, functional teams to give consultations on AI use case, identify potential value from data, formulate AI and data science ideas and conceptualize them. In addition, to building, evaluating and productionalizing models as appropriate.
+
+Duties & Responsibilities
+
+Work with stakeholders throughout the organization to identify opportunities for leveraging company data to drive business solutions
+
+Mine and analyze data from company data sources to drive optimization and improvement of product development, and business strategies.
+
+Assess the effectiveness and accuracy of new data sources and data gathering techniques.
+
+Develop custom data models and algorithms to apply to data sets.
+
+Use predictive modeling to increase and optimize production facilities, revenue generation, and other targeted outcomes.
+
+Develop A/B testing mechanisms and test model quality and validate hypothesis accordingly.
+
+Coordinate with different functional teams to implement models and monitor outcomes.
+
+Develop necessary documentation as per established standards.","As the successful candidate you will hold a Masters degree in in data science, computer science, computer vision, applied mathematics or a related field from a recognized and approved program. A PhD degree is preferred.
+
+You must have at least 5 years of experience with hands-on data science, NLP, computer vision, and/or machine learning projects/products in industry.
+
+You must also be able to bring ideas from conceptualization to productionalization (putting models in production) using the right tools (e.g. mlflow, kubeflow, tensorlight, etc).
+
+Having very strong expertise in data collection, cleaning, preprocessing, and wrangling is a requirement.
+
+You must be fluent in either R or Python, preferably both, and familiarity with golang is a plus.
+
+Proficiency in visualization tools and packages; and in communicating data science topics to non-technical audience is a requirement.
+
+You must be experienced in Information Retrieval (Content Recommendation, Search Metrics, Search Query, document classification, entity recognition, topic modelling, etc).
+
+Proficiency in transfer learning and in fine tuning open-sourced models like BERT is necessary.
+
+Working environment
+
+Our high-performing employees are drawn by the challenging and rewarding professional, technical and industrial opportunities we offer, and are remunerated accordingly.
+Job Function: IT Software : Software Products & Services
+Industry: Manufacturing/Industrial, Petrochemicals
+Specialization:Software Engineer
+Qualification:
+Any Graduate
+Employment Type: Full Time
+",
+6,NLP Developer,Jobskey Search and Selection,"ubail, Eastern, Saudi Arabia ",Hybrid,"As the successful candidate, you will hold degree in Data Science, Computer Science, Computer
+
+Vision, Applied Mathematics, or a related field from a recognized and approved program. )A
+
+Master or Ph.D. degree is preferred).
+
+? You must have at least 5 years of experience with hands-on data science, NLP, and/or machine
+
+learning projects/products in industry.
+
+? You must also be able to bring ideas from conceptualization to productionalization (putting
+
+models in production) using the right tools.
+
+? Having very strong expertise in data collection, cleaning, preprocessing, and wrangling is a
+
+requirement.
+
+? Expertise in handling text data from different data sources is a must.
+
+? Knowledge and experience in building knowledge graphs is necessary.
+
+? You must be fluent in either R or Python, preferably both, and familiarity with Golang is a plus.
+
+? You must be experienced in information retrieval (content recommendation, search metrics,
+
+search query, document classification, entity recognition, topic modelling, etc.).","Work with stakeholders throughout the organization to identify opportunities for leveraging
+
+company data to drive business solutions.
+
+? Mine and analyze data from company data sources to drive optimization and improvement of
+
+product development, and business strategies.
+
+? Assess the effectiveness and accuracy of new data sources and data gathering techniques.
+
+? Develop custom data models and algorithms as needed and appropriate to address problems.
+
+? Use predictive modeling to increase and optimize production facilities, revenue generation, and
+
+other targeted outcomes.
+
+? Develop A/B testing mechanisms and test model quality and value, and validate the associated
+
+hypothesis accordingly.
+
+? Coordinate with different functional teams to implement models and monitor outcomes.
+
+? Develop necessary documentation as per established standards.
+
+Sensitivity: Internal & Restricted
+
+Machine Learning engineering / Data Science / AI Engineering
+
+Strong knowledge of diverse Machine Learning models and practices (Supervised, Unsupervised,
+
+Neural Networks, etc)
+
+IIoT skills are bonus for Manufacturing focus
+
+- Tools: Python, Jupyter, Keras, R, C++, OpenCV, PCA, Linux, Apache Hadoop stack, TensorFlow, Scikit-
+
+learn, PyTorch, Caffe, Matlab, SAS, Alteryx
+
+Experience on implementing Machine Learning projects
+Extensive implementation knowledge of different types of ML (Supervised, Unsupervised, Neural
+
+Networks, etc)
+
+Handling and inferencing with time-series data
+Responsible for working with SME, PM, Data Engineering teams to assess project feasibility
+Identify, develop, test, train, measure performance and quality of ML Models
+Monitor production models and tune their performance and quality.
+Identify resources needed and work with Data engineer to procure right ML resources
+Document ML models with problems and outcome success
+Testing ML model with the SME and confirm acceptance","Tokenization, classification and preprocessing of different languages
+
+? Semantic analysis of big/continuous texts
+
+? Sentiment Analysis from paragraphs of text
+
+? Feature extraction (entities) from big block of text
+
+? Summarization and classification of topics from text
+
+? Understanding and utilization of Deep learning models for NLP
+
+? Understanding and work on intent and entity extraction from a sentence
+
+? Arabic language NER understanding and good work done in past",
+7,Artificial Intelligence Researcher,AL MOZN AI,Riyadh Region,Onsite,"AI Research Scientists have tasks of designing, undertaking, and analyzing information.
+
+
+These individuals are experts in multiple AI disciplines, including applied math, machine learning, deep learning, and computational statistics.
+
+
+AI research scientist explore new ways and make new systems of solving-problems, while data scientists tweak and apply these systems in real-world scenarios.
+
+
+Thus a team of AI researcher scientists can create an AI system that will potentially be employed by many data scientists in several situations. An AI Research Scientist has deep knowledge of different AI fields like machine learning, mathematics, programming, and even statistics.",,"Minimum Qualifications
+
+Ph.D. and publications in machine learning, AI, computer science, statistics, applied mathematics, data science, or related technical fields
+
+Proven work experience in a university or industry lab(s), in a lead role with primary emphasis on AI research
+
+Experience in theoretical and empirical research and for addressing research problems
+
+Experience communicating research for public audiences of peers
+
+Knowledge in a programming language
+
+
+Preferred Qualifications
+
+Experience leading a team in solving modeling problems using AI/ML approaches
+
+First-author publications at peer-reviewed AI conferences (e.g. NeurIPS, CVPR, ICML, ICLR, ICCV, ACL, Interspeech and ICASSP)
+
+Experience driving original scholarship in collaboration with a team
+
+Experience in developing and debugging in C/C++, Python, or C#
+
+AI Researcher
+
+1. Master’s degree or higher in Artificial Intelligence or related fields.
+
+2. Research backgrounds in artificial intelligence, machine learning, NLP is necessary. Applicants with open source projects experience are preferred.
+
+3. Familiarity with deep learning framework is preferred, such as Tensorflow, Theano, Torch and so on.
+
+4. Solid programming skills; proficiency in at least one of the following languages: Java, Python, Scala or R, and familiar with Ubuntu and other UNIX operating systems.
+
+5. Ability to read and write in English.
+
+6. Good communication skills and teamwork ability, work hard and can work under pressure.
+
+7. Good command of Chinese is a plus.",
+8,Machine Learning Engineer,IQVIA,"Riyadh, Riyadh, Saudi Arabia ",Onsite,"Position summary:
+
+ML engineers typically work within a data science team, collaborating with data scientists, data analysts, IT experts, DevOps experts, software developers, and data engineers.
+
+Purpose of the Role:
+
+Machine learning engineer (ML engineer) is a programmer who designs and builds software that can automate artificial intelligence and machine learning (AI/ML) models.
+
+ML engineers build large-scale systems that take in massive data sets and use them to train algorithms that can learn cognitive tasks and generate useful insights and predictions.
+
+Machine learning engineers manage the entire data science pipeline, including sourcing and preparing data, building, training models, and deploying models to production.","Key Responsibilities:
+Consulting with managers to determine and refine machine learning objectives
+Designing machine learning systems and self-running artificial intelligence (AI) software to automate predictive models
+To research, experiment with, and implement suitable ML algorithms and tools
+Ensuring that algorithms generate accurate user recommendations
+Turning unstructured data into useful information by auto-tagging images and text-to-speech conversions
+Solving complex problems with multi-layered data sets, as well as optimizing existing machine learning libraries and frameworks
+Developing ML algorithms to analyze huge volumes of historical data to make predictions
+Running tests, performing statistical analysis, and interpreting test results
+To analyze the problem-solving capabilities and use-cases of ML algorithms and rank them by their success probability
+To develop Machine Learning apps according to customer/client requirements
+To explore and visualize data for better understanding and identify differences in data distribution that could impact model performance when deploying it in real-world scenarios
+Documenting machine learning processes
+Keeping abreast of developments in machine learning","Minimum 5+ experience in related field
+Bachelor of computer science filed and professional machine learning qualification",
+9,Computer Vision Engineer,Turing ,Egypt,Remote,"A US-based company pioneering data-driven virtual tours to increase conversion and improve leasing standards is looking for a Computer Vision Engineer. The selected candidate will be responsible for managing the entire lifecycle of the product, from design to documentation. The company is on a mission to empower people with the powering analytics, content management, interactive tours, and marketing tools that make finding a leased home faster, easier, and cheaper. The company has managed to raise funding worth $1 mn+ so far. This will be a full-time role that requires some overlap with the EST time zone.","Design, develop, ship, and maintain web-based tools for advertisers, retailers, and internal users
+Understand product and customer priorities, and balance those against operational and technical needs
+Ensure top quality code; practice code reviews, unit tests, integration tests, end-to-end tests in a continuous integration environment
+Contribute to the image stitching/homography, and SLAM projects","Bachelor’s/Master’s degree in Engineering, Computer Science (or equivalent experience)
+At least 3+ years of relevant experience as a computer vision engineer
+Extensive experience working with OpenCV and SLAM
+Exceptionally strong math background
+Nice to have some previous work experience with image stitching and photography
+Fluent in both written and verbal English communication",
+10,Software Engineering Manager,Careem,"Alexandria, Egypt",Onsite,"At Careem we are led by a powerful purpose to simplify and improve lives in the Middle East, North Africa and Pakistan. We're pioneering the development of innovative services to aid the mobility of people, the mobility of things and the mobility of money.
+
+
+We're in the driving seat as we help to define how technology will shape progress in some of the fastest-growing countries in the world. Our teams are building tech to meet the needs of the future in areas including data and AI, e-commerce, technology-enabled logistics, maps, identity, and fintech.
+
+
+We’re well placed to solve complex and meaningful challenges at scale, with deep tech expertise, strong regulatory relationships, a local presence, and increasingly specialised global teams which are structured to operate as autonomous start-ups. Our team of over 400 engineers and developers are empowered to develop cutting-edge technology every day.
+
+
+Careem was established in July 2012, became a wholly-owned subsidiary of Uber Technologies, Inc. in January 2020, and today operates in over 100 cities across 12 countries.
+
+
+About The Role
+
+We are looking for a Software Engineering Manager to lead our team of talented engineers that share a common interest in distributed backend systems, their scalability, and continued development. You will partner with engineering leaders across Careem to ensure strong execution and address new engineering opportunities at hand.
+
+
+You will be responsible for maintaining some of our services that power the Careem engine, scaling highly distributed systems, and continuously documenting and improving our engineering practices. These large-scale, distributed systems handle the entire Careem platform from user requests to payment processing.
+
+
+At Careem, the mission for the Satellite Engineering program is to help grow our new joint Engineering by learning how to write Clean Code, use SOLID principle techniques, and design reliable systems. The ultimate goal is to train the new Engineers to build Engineering excellence foundations with high standards. Our Programme covers all the areas of Careem tech be it Information Security, Data, Infrastructure, and all the Software Engineering tracks like Backend, Frontend as well as Mobile.
+","Lead a team of software engineers in implementing high quality services including design, development, and deployment of new business functionality.
+Plan and allocate available talent to meet engineering objectives. Interacts with engineering leaders, customers and peers to share information and improve cross-departmental processes.
+Assist your teams in developing roadmaps for system and product growth, then identify, plan, and execute projects to support that growth
+Strong ability to coach developers, helping them improve their skills and grow their careers
+Create a sense of community with the team members to support them in their growth journey
+Experience solving large-scale engineering challenges
+Encourages and supports others to take on responsibility, authority, and accountability.
+Keeping the engineering level of engagement high","You have strong software engineering skills with strong competencies in data structures, algorithms, software design and OOP
+Deep understanding of how to build scalable distributed systems
+Bachelor's degree in Computer Science, Engineering or related field, or equivalent training, fellowship, or work experience.
+You’ll have several years of serving in either an engineering management role or a senior engineering team lead role.
+You’re a leader who is passionate about growing talent.
+Demonstrate ability to run and improve technical development processes.","n addition to a competitive long-term total compensation with salary and equity, we have a reward philosophy that expands beyond this.
+
+Be part of a hybrid working environment
+Work from any country in the world for 30 days a year
+Use Unlimited Vacation days throughout the year
+Access fitness reimbursements for health activities including: gym, health club and training classes.
+Work and learn from great minds
+Create impact in a region with untapped potential
+Explore new opportunities to learn and grow every day"

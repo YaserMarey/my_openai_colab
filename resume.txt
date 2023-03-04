@@ -1,0 +1,113 @@
+Yaser Mohye Marey
+MSc. in Computer Science - Machine Learning
+https://yasermarey.github.io/ https://www.kaggle.com/yasermarey
+ https://github.com/YaserMarey, https://medium.com/@yasser.maree
+
+Profile
+Veteran software engineer with extensive hands-on experience in software systems envisioning and development. Master's in Computer Science from Georgia Institute of Technology specializing in Machine Learning. Crafted my first Neural Network in 1996 and have updated knowledge in Deep Learning, DNN, CNN, and RNN applied to Computer Vision and NLP problems. I have solid hands-on experience in JavaScript, Python, R, and C#.
+Education
+Master of Science in Computer Science with a focus on Machine Learning 
+Georgia Institute of Technology, GPA 3.58, 2020, Atlanta, USA
+
+Some of the Master�s coursework included:
+* For Computer Vision: 1) Detecting traffic signals and lights using Hough Transform. 2) Motion Detection using Pyramidal Lucas and Kanade method. 3) Object tracking using the Kalman filter.
+* For Data Visualization and Analytics: Explore and preprocess the IMDb movies dataset, to predict the relationship between movie descriptors and box office success using R.
+* For Reinforcement Learning: 1) Replicating Richard Sutton�s 1988 paper �Learning to predict by the methods of temporal differences�. 2) Writing an agent to successfully land Lunar Lander implemented in OpenAI Gym
+* For Machine Learning: 1) Applying 5 different classification algorithms to two interestingly different datasets and interpreting results. 2) Applying 3 different randomized optimization algorithms to find weights for a NN and compare results.
+* For AI for Robotics: 1) Track moving asteroids, estimate their future locations, and pilot a craft around them to the goal location.2) Design a planner to help the robot find the best path through a warehouse filled with boxes that it must pick to a drop zone.
+
+Diploma in Software Development Skills
+Information Technology Institute (ITI), 1998 - 1999, Intake SSDP11, Cairo, Egypt.
+ 
+Bachelor�s degree in Computer Science and Engineering,
+Faculty of Electronics Engineering, Al Menoufiya University, 1996, Egypt.
+
+Career Highlights
+* In the late 1990s: started as a software engineer using Microsoft .NET tools in the well-known Egyptian software house ITWorx. I was one of the core team of http://www.otlob.com, the first food online ordering platform in Egypt. I used MS.NET as early as its beta version to build intranet applications for customers from Fortune 500 largest companies in the USA and Europe. 
+* I left Egypt for Saudi Arabia to work as a Senior Software Engineer, and later as a Business Process Automation and Rich Internet Application Consultant.
+* I worked for Adobe Systems for one year as a Sr. Systems Analyst leading a team of five consultants for a project for Dubai eGovernment. 
+* In 2014, I came back to Egypt to join Dirac Systems as a Software Development Manager. 
+* In early 2017 I joined STCS to participate in establishing STCS Egypt which is an expansion of �Solutions by STC� a subsidiary of STC, Saudi Telecom Company
+* Progressing over the years to come now to be the software development manager of a reputable and established Communication Systems supplier with contracts with many government agencies and ministries in Egypt.
+
+Machine Learning/Data Science Projects
+AI4Support.com: A Question-Answering Platform
+An NLP Question-Answering system targeting Technical Engineers who need assistance through access to specialized knowledge sources such as manuals or technical guides. In AI4Support, a subscriber would upload different types of manuals documents and then the system would train on these documents to be able to answer questions on the content of these documents later. In AI4Support we used RASA as a chatbot engine for Intent Classification and Entity Extraction. AI4Support is built around Microservices Architecture and includes .NET core/Angular and Python-based services. It also incrementally learns from interactions with the users. Our �Correctness� metric, measured through applying a carefully designed Test Data Set, shows that AI4Support achieves 90%+ correctness compared to 70% for DialogFlow Question-Answering Service and 65% for MS Azure QnA. 
+
+Shofle.com: A Classifier for Cars� Ads on the Internet published in the Arabic Language 
+An application of NLP on Knowledge Extraction Problem. In Shofle we are applying an ensemble of learners to categorize cars ads collected from 4 major websites after data cleansing and preprocessing. The online cars ads lack a unified structure. Shofle extracts information from ad textual body descriptions in addition to other ad attributes and molds output into a unified ad structure. The challenge also was to build a model that can adapt to local terminologies, missing data, and imbalanced data classes. Shofle is built on MEAN stack (MongoDB, ExpressJS, AngularJS, and Node). The solution is deployed to an AWS EC2. Part of the source code of Shofle is open on the GitHub repo
+
+ShelfC: An Image Detection Application applied to Coolers Images for Planogram Compliance 
+ShelfC relies on a Yolov5 deep learning algorithm that, preprocesses, detects, and classifies items on shelves from shelf images collected through a mobile application and analyzes shelf KPIs of planogram compliance, purity, and shelf space.
+Two analytical modules are at play simultaneously, one classifies the item, and the other one identifies the location of the item on the shelf.
+
+
+Volunteer Work
+Since 2013 I am a member of the translation team of Scrum and Nexus Guides from Scrum Alliance and Scrum.org responsible for the translation to the Arabic language.
+https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-Arabic.pdf https://www.scrum.org/resources/nexus-guide
+
+Career History
+2021 � Present 
+Software Development Manager
+-
+Cairo, Egypt
+2018 � 2021 
+Technical Manager
+Solutions by STC� Egypt
+Cairo, Egypt
+2014 � 2018
+Software Development Manager
+DIRAC Systems
+Cairo, Egypt
+2011 � 2013
+Projects Manager
+National DataServe &
+Turnkey Solutions
+Riyadh, KSA
+2009 � 2011
+Sr. Tech Consultant, BPM, and Rich Internet Applications
+Advanced Systems and Tech.
+Dammam, KSA
+2008 �2009
+Sr. System Analyst
+Adobe Systems
+Dubai, UAE
+Before 2008
+Software Engineer and Sr. Software Engineer
+ITWorx
+Cairo, Egypt
+
+
+
+Training
+2020 
+NLP Specialization (4 Courses) 
+Deeplearning.ai through Coursera 
+2020 
+AI in Medicine Specialization (2 Courses) 
+Deeplearning.ai through Coursera 
+2020 
+TensorFlow Dev. Specialization (4 Courses) 
+Deeplearning.ai through Coursera 
+2020 
+Deep Learning Specialization (4 Courses) 
+Deeplearning.ai through Coursera 
+2019
+Deep Learning Specialization
+Coursera, Online Learning
+2013
+Scrum Master Training
+SmitsMC, Cairo, Egypt
+2010
+Software Architecture Principles and Practices
+SEI, Carnegie Mellon (eLearning)
+2006
+Post Graduate Course in Software Engineering 
+KFUPM, Dhahran, Saudi Arabia 
+
+
+Skills Summary
+Programming/Web, Tools, and Methodologies
+Machine Learning/Data Science
+C/C++, C#, ASP.NET Core, ASP.NET WebAPI,  REST/Web Services, JavaScript/Angular, Python, FastAPI, System Analysis, OOAD, Design Patterns, CI/CD, TDD/BDD, Docker, Git, Jira, Software Architecture, Scrum/Agile, Technical Writing 
+Pandas, Numpy, TensorFlow, scikit-learn, OpenCV, NLP/NLTK, R, Python, Octave/MATLAB, DNN/CNN, Computer Vision, Sequence Models, Data Exploration / Preparation, Data Visualization, Algorithms, Statistics, and Probability. 
