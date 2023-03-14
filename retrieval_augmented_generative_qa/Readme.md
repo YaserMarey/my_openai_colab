@@ -999,3 +999,9 @@ response
 
 
 Interesting, so it seems that adding context made the model shun from giving explaination of how this is a debatable topic. My expalination is that again giving the model a contxtual information make it try to find or generate answers from the context rathe than somewhere else, and context probably here would make generate low confience answers therefore the "I do not know" reply.
+
+
+### Conclusion
+- The system role is not very efficient, sometimes it drives the behavior of the bot but it is not reliable.
+- Without context information, the `gpt-3.5-turbo` model tends to be more creative with the answer even when `temperature` is set to 0
+- Adding context makes the model more factual and precise and nudges the model to emit "I don't know" answer when it is not able to find a direct answer from the context.
