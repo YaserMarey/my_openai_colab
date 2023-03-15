@@ -998,8 +998,7 @@ response
 
 
 
-Interesting, so it seems that adding context made the model shun from giving explaination of how this is a debatable topic. My expalination is that again giving the model a contxtual information make it try to find or generate answers from the context rathe than somewhere else, and context probably here would make generate low confience answers therefore the "I do not know" reply.
-
+Interesting, so it seems that adding context made the model shun from giving an explanation of how this is a debatable topic. My explanation is that again giving the model contextual information makes it try to find or generate answers from the context rathe than somewhere else, and context probably here would make generate low-confidence answers therefore the "I do not know" reply.
 
 ### Conclusion
 - The system role is not very efficient, sometimes it drives the behavior of the bot but it is not reliable.
