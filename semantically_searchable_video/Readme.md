@@ -250,7 +250,7 @@ HTML(results[['start','similarity', 'text']].to_html(render_links=True, escape=F
 ```
 
 
-```{=html}
+```html
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
